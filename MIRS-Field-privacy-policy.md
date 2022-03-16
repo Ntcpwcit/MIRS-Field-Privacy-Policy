@@ -1,4 +1,4 @@
-Privacy Policy
+#Privacy Policy
 Last updated: March 16, 2022
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of
@@ -214,4 +214,4 @@ Policy are effective when they are posted on this page.
 Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
- By visiting this page on our website: https://ntcpwc.iitm.ac.in/New/
+- By visiting this page on our website: https://ntcpwc.iitm.ac.in/New/
